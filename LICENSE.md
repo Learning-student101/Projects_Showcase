@@ -37,6 +37,6 @@ This document outlines the terms and conditions under which the accompanying sof
      - MediaPipe: [https://github.com/google/mediapipe/blob/master/LICENSE](https://github.com/google/mediapipe/blob/master/LICENSE)
 
 7. **Contact Information**
-   - For inquiries regarding this license or for permission requests, please initiate an issue in the project's GitHub repository or directly contact [Your Email Address].
+   - For inquiries regarding this license or for permission requests, please initiate an issue in the project's GitHub repository or directly contact 'yb.yoan.bacus@gmail.com'.
 
 **Note**: This license may be updated or revised. Users are responsible for complying with the latest version of the license as published in the official GitHub repository and also referenced in the footnotes of the Home Page.
